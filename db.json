@@ -1,0 +1,37 @@
+{
+  "characters": [
+    {
+      "id": 0,
+      "name": "Ryu",
+      "description": "A student of the Shotokan school of karate, Ryu has devoted his entire life to perfecting the true way of the warrior through mastery of the fireball. Now Ryu must stand tall against revitalized rivals.",
+      "county": "Japan",
+      "special moves": [
+        "Hadouken",
+        "Shakunetsu Hadouken",
+        "Shoryuken",
+        "Tatsumaki Senpu Kyaku",
+        "Fake Hadouken"
+      ],
+      "super moves": ["Shinku Hadouken", "Shinku Tatsumaki Senpu Kyaku"],
+      "portrait": "https://srk.shib.live/images/e/ef/Portrait_SFA2_Ryu.png",
+      "sprite": "https://srk.shib.live/images/7/70/Ryu-good-original-stance-sfa.gif",
+      "colors": "https://srk.shib.live/images/4/4d/Ryu_Alpha2_colors.PNG"
+    },
+    {
+      "id": 1,
+      "name": "Ken",
+      "description": "A disciple of the Shotokan school of karate and past training partner of Ryu, Ken has an amazing fighting spirit, but an even larger ego. Convinced he is the best fighter, Ken seeks a confrontation with his long-time rival.",
+      "country": "USA",
+      "special moves": [
+        "Hadouken",
+        "Shoryuken",
+        "Zenpo Tenshin",
+        "Tatsumaki Senpu Kyaku"
+      ],
+      "super moves": ["Shoryu Reppa", "Shinryu Ken"],
+      "portrait": "https://srk.shib.live/images/e/eb/Portrait_SFA2_Ken.png",
+      "sprite": "https://srk.shib.live/images/8/8a/Ken2.gif",
+      "colors": "https://srk.shib.live/images/5/56/Ken_Alpha2_colors.PNG"
+    }
+  ]
+}
