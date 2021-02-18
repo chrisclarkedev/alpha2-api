@@ -4,7 +4,7 @@
       "id": 0,
       "name": "Ryu",
       "description": "A student of the Shotokan school of karate, Ryu has devoted his entire life to perfecting the true way of the warrior through mastery of the fireball. Now Ryu must stand tall against revitalized rivals.",
-      "county": "Japan",
+      "country": "Japan",
       "special moves": [
         "Hadouken",
         "Shakunetsu Hadouken",
@@ -35,19 +35,83 @@
     },
     {
       "id": 2,
-      "name": "Ken",
-      "description": "A disciple of the Shotokan school of karate and past training partner of Ryu, Ken has an amazing fighting spirit, but an even larger ego. Convinced he is the best fighter, Ken seeks a confrontation with his long-time rival.",
-      "country": "USA",
+      "name": "Chun-Li",
+      "description": "Secretly pursuing the movements of Shadowloo, the international smuggling operation, Chun-Li fights bravely, unmindful of personal danger. The memory of her father burns brightly in her life.",
+      "country": "China",
       "special moves": [
-        "Hadouken",
-        "Shoryuken",
-        "Zenpo Tenshin",
-        "Tatsumaki Senpu Kyaku"
+        "Kikoken",
+        "Sen'en Shu",
+        "Tensho Kyaku",
+        "Hyakuretsu Kyaku"
       ],
-      "super moves": ["Shoryu Reppa", "Shinryu Ken"],
-      "portrait": "https://srk.shib.live/images/e/eb/Portrait_SFA2_Ken.png",
-      "sprite": "https://srk.shib.live/images/8/8a/Ken2.gif",
-      "colors": "https://srk.shib.live/images/5/56/Ken_Alpha2_colors.PNG"
+      "super moves": ["Kikosho", "Senretsu Kyaku", "Hazan Tensho Kyaku"],
+      "portrait": "https://srk.shib.live/images/8/8a/Portrait_SFA2_ChunLi.png",
+      "sprite": "https://srk.shib.live/images/5/5a/Sf-chunli.gif",
+      "colors": "https://srk.shib.live/images/a/a9/ChunLi_Alpha2_colors.PNG"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "description": "A member of a secret elite military team, Charlie co-piloted a special mission into Thailand along with his long-time friend Guile. The mission backfired, and Charlie and Guile were captured. After escaping the jungle prison, Charlie now seeks the force behind the unrest in Thailand.",
+      "country": "USA",
+      "special moves": ["Sonic Boom", "Somersault Shell"],
+      "super moves": ["Sonic Break", "Crossfire Blitz", "Somersault Justice"],
+      "portrait": "https://srk.shib.live/images/8/84/Alpha2_Charlie-Nash_portrait.png",
+      "sprite": "https://srk.shib.live/images/5/59/Sf-charlie2.gif",
+      "colors": "https://srk.shib.live/images/3/3e/Charlie_Alpha2_colors.PNG"
+    },
+    {
+      "id": 4,
+      "name": "Adon",
+      "description": "Drawing from the speed and cunning of the majestic jaguar, Adon's style has been known to mesmerize victims. A master of Muay Thai, Adon trained with Sagat, but when the latter was defeated by Ryu, Adon believed Sagat to be a disgrace. Adon now seeks Sagat to become the Muay Thai leader once and for all.",
+      "country": "Thailand",
+      "special moves": ["Rising Jaguar", "Jaguar Kick", "Jaguar Tooth"],
+      "super moves": [
+        "Jaguar Revolver",
+        "Jaguar Varied Assault",
+        "Jaguar Thousand",
+        "Jaguar Assassin"
+      ],
+      "portrait": "https://srk.shib.live/images/d/d2/Portrait_SFA2_Adon.png",
+      "sprite": "https://srk.shib.live/images/f/f4/Sf-adon.gif",
+      "colors": "https://srk.shib.live/images/1/1a/Adon_Alpha2_colors.PNG"
+    },
+    {
+      "id": 5,
+      "name": "Guy",
+      "description": "Guy's command of ninjitsu fuels his belief that he is a descendant of a ninja. An intelligent fighter, Guy balances street smarts with the ninjitsu tradition. Instrumental in the downfall of the Mad Gear Gang, Guy trounces evil wherever it lurks.",
+      "country": "Japan & USA",
+      "special moves": [
+        "Bushin Senpuu Kyaku",
+        "Bushin Izuna Otoshi",
+        "Izuna no Hiji Otoshi",
+        "Bushin Gokusa Ken",
+        "Izuna Otoshi"
+      ],
+      "super moves": ["Bushin Hassou Ken", "Bushin Gourai Kyaku"],
+      "portrait": "https://srk.shib.live/images/f/f7/Portrait_SFA2_Guy.png",
+      "sprite": "https://srk.shib.live/images/6/6d/Guy-stance.gif",
+      "colors": "https://srk.shib.live/images/6/6d/Guy_Alpha2_colors.PNG"
+    },
+    {
+      "id": 6,
+      "name": "Dhalsim",
+      "description": "The Indian monk fights for his people who suffer from famine and disease. He has sought to unify his mind, body and soul through the discipline of Yoga. As he nears his goal, Dhalsim must test himself and his skills before he can rise to a higher state of consciousness.",
+      "country": "India",
+      "special moves": [
+        "Drill Kick",
+        "Drill Zutsuki",
+        "Yoga Fire",
+        "Yoga Flame",
+        "Yoga Blast",
+        "Yoga Teleport Forward",
+        "Yoga Teleport Backward",
+        "Yoga Escape"
+      ],
+      "super moves": ["Yoga Inferno", "Yoga Strike", "Yoga Tempest"],
+      "portrait": "https://srk.shib.live/images/7/75/Alpha2_Dhalsim_portrait.png",
+      "sprite": "https://srk.shib.live/images/d/d9/Dhalsimalpha.gif",
+      "colors": "https://srk.shib.live/images/d/d2/Dhalsim_Alpha2_colors.PNG"
     }
   ]
 }
