@@ -175,6 +175,152 @@
       "portrait": "https://srk.shib.live/images/b/bd/Alpha2_Zangief_portrait.png",
       "sprite": "https://srk.shib.live/images/2/22/Sf-zangief.gif",
       "colors": "https://srk.shib.live/images/d/d9/Zangief_Alpha2_colors.PNG"
+    },
+    {
+      "id": 11,
+      "name": "Birdie",
+      "description": "Influenced by life on the European back streets, Birdie has become familiar with the workings of Shadowloo as a bouncer in many punk clubs. He yearns for a part of the action. Using his strength and style to avoid the law, Birdie knows he must fight his way into the infamous crime organization.",
+      "country": "United Kingdom",
+      "special moves": [
+        "Bull Head",
+        "Murderer Chain",
+        "Bandit Chain",
+        "Bull Horn"
+      ],
+      "super moves": ["The Birdie", "Bull Revenger"],
+      "portrait": "https://srk.shib.live/images/6/6a/Alpha2_Birdie_portrait.png",
+      "sprite": "https://srk.shib.live/images/5/53/Sf-birdie.gif",
+      "colors": "https://srk.shib.live/images/c/c2/Birdie_Alpha2_colors.PNG"
+    },
+    {
+      "id": 12,
+      "name": "Rose",
+      "description": "Influenced by life on the European back streets, Birdie has become familiar with the workings of Shadowloo as a bouncer in many punk clubs. He yearns for a part of the action. Using his strength and style to avoid the law, Birdie knows he must fight his way into the infamous crime organization.",
+      "country": "Italy",
+      "special moves": [
+        "Soul Spark",
+        "Soul Reflect",
+        "Soul Spiral",
+        "Soul Throw"
+      ],
+      "super moves": ["Aura Soul Spark", "Aura Soul Throw", "Soul Illusion"],
+      "portrait": "https://srk.shib.live/images/6/65/Alpha2_Rose_portrait.png",
+      "sprite": "https://srk.shib.live/images/1/13/Rose-stance.gif",
+      "colors": "https://srk.shib.live/images/7/7d/Rose_Alpha2_colors.PNG"
+    },
+    {
+      "id": 13,
+      "name": "Sodom",
+      "description": "Katana (Sodom) is a self-proclaimed student of Japan and its culture. A former henchman of the Mad Gear Gang, Sodom aims to revive the crime ring and is consumed with revenge toward Guy.",
+      "country": "USA",
+      "special moves": [
+        "Jigoku Scrape",
+        "Butsumetsu Buster",
+        "Daikyou Burning",
+        "Kouten Okiagari",
+        "Tengu Walking"
+      ],
+      "super moves": ["Meido no Miyage", "Tenchuu Satsu"],
+      "portrait": "https://srk.shib.live/images/9/91/Alpha2_Sodom_portrait.png",
+      "sprite": "https://srk.shib.live/images/e/e4/SFA-sodom.gif",
+      "colors": "https://srk.shib.live/images/7/76/Sodom_Alpha2_colors.PNG"
+    },
+    {
+      "id": 14,
+      "name": "Sagat",
+      "description": "Feared throughout his homeland and beyond, Sagat reigned supreme until his narrow defeat at Ryu's hands. Humiliated and honorless, Sagat vows revenge at any cost. The tenacious tiger now stands on a new battlefield.",
+      "country": "Thailand",
+      "special moves": ["Tiger Shot", "Tiger Blow", "Tiger Crush"],
+      "super moves": ["Tiger Cannon", "Tiger Genocide", "Tiger Raid"],
+      "portrait": "https://srk.shib.live/images/e/e8/Alpha2_Sagat_portrait.png",
+      "sprite": "https://srk.shib.live/images/5/53/Sagat-stance.gif",
+      "colors": "https://srk.shib.live/w/File:Sagat_Alpha2_colors.PNG"
+    },
+    {
+      "id": 15,
+      "name": "Evil Ryu",
+      "description": "Essentially a non-canon version of Ryu with some new moves, and slight differences on some existing moves. A mix of Akuma and Ryu.",
+      "country": "Japan",
+      "special moves": [
+        "Hadouken",
+        "Shakunetsu Hadouken",
+        "Fake Hadouken",
+        "Tatsumaki Senpu Kyaku",
+        "Shoryuken",
+        "Ashura Senku"
+      ],
+      "super moves": [
+        "Shinkuu Hadouken",
+        "Shinkuu Tatsumaki Senpuukyaku",
+        "Messatsu Gou Shouryuu",
+        "Shun Goku Satsu"
+      ],
+      "portrait": "https://srk.shib.live/images/8/8b/Alpha2_Evil-Ryu_portrait.png",
+      "sprite": "https://srk.shib.live/images/0/0b/Ryu-evil-stance.gif",
+      "colors": "https://srk.shib.live/images/f/f4/EvilRyu_Alpha2_colors.PNG"
+    },
+    {
+      "id": 16,
+      "name": "Akuma",
+      "description": "He believed his ancestors to be fools for sealing the Raging Demon. So what if the technique could kill the person who executed it? Akuma will do everything he can to win. By releasing the Raging Demon, he sealed his evil destiny and destroyed his own master.",
+      "country": "Japan",
+      "special moves": [
+        "Go Hado Ken",
+        "Zanku Hado Ken",
+        "Shakunetsu Hado Ken",
+        "Go Shoryu Ken",
+        "Tatsumaki Zanku Kyaku",
+        "Zenpo Tenshin",
+        "Ashura Senku",
+        "Hyakki Shu",
+        "Hyakki Go Zan",
+        "Hyakki Go Sho",
+        "Hyakki Go Sen",
+        "Hyakki Go Sai",
+        "Hyakki Go Tsui"
+      ],
+      "super moves": [
+        "Messatsu Go Hado",
+        "Messatsu Go Shoryu",
+        "Tenma Go Zanku",
+        "Shun Goku Satsu"
+      ],
+      "portrait": "https://srk.shib.live/images/3/35/Alpha2_Akuma_portrait.png",
+      "sprite": "https://srk.shib.live/images/1/15/Akumaa2sprite.gif",
+      "colors": "https://srk.shib.live/images/c/cc/Akuma_Alpha2_colors.PNG"
+    },
+    {
+      "id": 17,
+      "name": "M.Bison",
+      "description": "Bison (aka Dictator or Vega in Japan), leader of the criminal organization known as Shadaloo, hears of a fighter named Ryu who defeated his new henchman, Sagat. Bison decides to recruit Ryu and begins the search for him. In the meantime, he is confronted by Rose, a mysterious woman who wields power that is in many ways similar to his own. Rose wins the ensuing battle but only to find out that Bison has left the battlefield completely unscathed and has possibly threw the fight.",
+      "country": "Unknown",
+      "special moves": [
+        "Psycho Shot",
+        "Double Knee Press",
+        "Head Press",
+        "Somersault Skull Diver",
+        "Warp"
+      ],
+      "super moves": ["Psycho Crusher", "Knee Press Nightmare"],
+      "portrait": "https://srk.shib.live/images/f/fd/Alpha2_Dictator_portrait.png",
+      "sprite": "https://srk.shib.live/images/9/90/Bisonalphastance.gif",
+      "colors": "https://srk.shib.live/images/f/f1/Dictator_alpha2_colors.PNG"
+    },
+    {
+      "id": 18,
+      "name": "Evil Ryu",
+      "description": "Ten years ago, Dan's father was killed by Sagat. Dan has trained vigorously to avenge his father's death. Filled with incredible power, he unloads his most potent attack on those who stand in his way. He will have his revenge.",
+      "country": "Hong Kong",
+      "special moves": ["Gadou Ken", "Koryu Ken", "Danku Kyaku"],
+      "super moves": [
+        "Shinku Gado Ken",
+        "Hissho Burai Ken",
+        "Koryu Rekka",
+        "Chohatsu Densetsu"
+      ],
+      "portrait": "https://srk.shib.live/images/e/e4/Alpha2_Dan_portrait.png",
+      "sprite": "https://srk.shib.live/images/c/ca/Dan-alpha2standing.gif",
+      "colors": "https://srk.shib.live/images/5/5d/Dan_Alpha2_colors.PNG"
     }
   ]
 }
