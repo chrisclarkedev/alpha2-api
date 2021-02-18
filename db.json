@@ -112,6 +112,69 @@
       "portrait": "https://srk.shib.live/images/7/75/Alpha2_Dhalsim_portrait.png",
       "sprite": "https://srk.shib.live/images/d/d9/Dhalsimalpha.gif",
       "colors": "https://srk.shib.live/images/d/d2/Dhalsim_Alpha2_colors.PNG"
+    },
+    {
+      "id": 7,
+      "name": "Gen",
+      "description": "Gen is legendary for defeating opponents with his bare hands. Day and night, youths seek Gen for a chance at fame. He shrugs them off in disgust. Gen seeks only true warriors, and does not fear the fight.",
+      "country": "China",
+      "special moves": [
+        "Ansatsu Ken: Sou-ryuu",
+        "Gekirou",
+        "Ansatsu Ken: Ki-ryuu",
+        "Jasen",
+        "Ouga"
+      ],
+      "super moves": ["Zan'ei", "Shitenshuu", "Kouga", "Jakouha"],
+      "portrait": "https://srk.shib.live/images/3/3c/Alpha2_Gen_portrait.png",
+      "sprite": "https://srk.shib.live/images/7/78/Sf-gen.gif",
+      "colors": "https://srk.shib.live/images/7/76/Gen_Alpha2_colors.PNG"
+    },
+    {
+      "id": 8,
+      "name": "Sakura",
+      "description": "Sakura has an unusual interest in street fighting. Most high school girls don't walk down the street looking to pick a fight, but ever since her run-in with three college men, she has sought to take her revenge.",
+      "country": "Japan",
+      "special moves": ["Hadou Ken", "Shou'ou Ken", "Shunpuu Kyaku"],
+      "super moves": ["Shinkuu Hadou Ken", "Haru Ichiban", "Midare Zakura"],
+      "portrait": "https://srk.shib.live/images/7/71/Alpha2_Sakura_portrait.png",
+      "sprite": "https://srk.shib.live/images/6/6c/Sf-sakura.gif",
+      "colors": "https://srk.shib.live/images/9/99/Sakura_Alpha2_colors.PNG"
+    },
+    {
+      "id": 9,
+      "name": "Rolento",
+      "description": "A commando in the Vietnam War, the strict and insane Rolento now controls his own army of soldiers. He preaches survival at all times, even when captured by the enemy. He even hung a soldier with a metal cable just to make a point!",
+      "country": "USA",
+      "special moves": [
+        "Patriot Circle",
+        "Mekong Delta Air Raid",
+        "Mekong Delta Escape",
+        "Mekong Delta Attack",
+        "Stinger",
+        "Trick Landing"
+      ],
+      "super moves": ["Take No Prisoner", "Mine Sweeper", "Midare Zakura"],
+      "portrait": "https://srk.shib.live/images/f/ff/Alpha2_Rolento_portrait.png",
+      "sprite": "https://srk.shib.live/images/c/c7/Sf-rolento.gif",
+      "colors": "https://srk.shib.live/images/c/c7/Rolento_Alpha2_colors.PNG"
+    },
+    {
+      "id": 10,
+      "name": "Zangief",
+      "description": "A commando in the Vietnam War, the strict and insane Rolento now controls his own army of soldiers. He preaches survival at all times, even when captured by the enemy. He even hung a soldier with a metal cable just to make a point!",
+      "country": "Russia",
+      "special moves": [
+        "Green Hand",
+        "Screw Piledriver",
+        "Flying Powerbomb",
+        "Atomic Suplex",
+        "Lariat"
+      ],
+      "super moves": ["Final Atomic Buster", "Aerial Russian Slam"],
+      "portrait": "https://srk.shib.live/images/b/bd/Alpha2_Zangief_portrait.png",
+      "sprite": "https://srk.shib.live/images/2/22/Sf-zangief.gif",
+      "colors": "https://srk.shib.live/images/d/d9/Zangief_Alpha2_colors.PNG"
     }
   ]
 }
